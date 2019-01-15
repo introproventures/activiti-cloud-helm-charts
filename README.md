@@ -1,1 +1,0 @@
-# activiti-cloud-helm-charts
