@@ -2,7 +2,16 @@ apiVersion: v1
 entries:
   activiti-cloud-notifications-graphql:
   - apiVersion: v1
-    created: 2019-01-16T01:58:07.669409834Z
+    created: 2019-01-16T03:09:36.844628738Z
+    description: A Helm chart for Activiti Cloud Notifications GraphQL Application
+    digest: 0e239fab78bb83d7d8868ac8c5d527fcdc6fbec269b7c1afc029c86b6188d615
+    icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
+    name: activiti-cloud-notifications-graphql
+    urls:
+    - activiti-cloud-notifications-graphql-1.0.7.tgz
+    version: 1.0.7
+  - apiVersion: v1
+    created: 2019-01-16T03:09:36.844242087Z
     description: A Helm chart for Activiti Cloud Notifications GraphQL Application
     digest: 0e830de308c8ad224d6362de3e5ad61d4b4965c668c47db82034429d73c5eca0
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
@@ -11,7 +20,7 @@ entries:
     - activiti-cloud-notifications-graphql-1.0.6.tgz
     version: 1.0.6
   - apiVersion: v1
-    created: 2019-01-16T01:58:07.668778841Z
+    created: 2019-01-16T03:09:36.843800765Z
     description: A Helm chart for Activiti Cloud Notifications GraphQL Application
     digest: be6a77ee1b8e29d3e2d062cfe2bd52634196943d64f650fa6d3886f02a0ccc9b
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
@@ -19,4 +28,4 @@ entries:
     urls:
     - activiti-cloud-notifications-graphql-1.0.5.tgz
     version: 1.0.5
-generated: 2019-01-16T01:58:07.668133516Z
+generated: 2019-01-16T03:09:36.842915948Z
